@@ -1,3 +1,4 @@
+// Bridge
 class TV {
     turnOn() {
         console.log("TV ligada.");

@@ -1,3 +1,4 @@
+// Adapter
 class LegacyPaymentSystem {
     makePayment(amount) {
         console.log(`Pagando R$${amount} com sistema legado.`);
